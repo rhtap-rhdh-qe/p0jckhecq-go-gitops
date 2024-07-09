@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: p0jckhecq-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/p0jckhecq-go
